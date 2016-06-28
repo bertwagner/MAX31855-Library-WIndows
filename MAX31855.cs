@@ -1,4 +1,4 @@
-class Temperature
+class MAX31855
 {
     private ThreadPoolTimer timer;
     private SpiDevice thermocouple;
